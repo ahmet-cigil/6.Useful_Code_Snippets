@@ -1,15 +1,6 @@
 # DataScienceTools
-Aim: A Collection of Useful Data Science and Machine Learning Tools,Libraries and Packages
+A Collection of Useful Data Science and Machine Learning Tools,Libraries and Packages
 
-# Data Science Tools List
-
-### Based  On General Work Flow
-
-#### Work Flow
-![](datascienceworkflow1.png)
-
-#### Work Flow
-![](datascienceworkflow2.png)
 
 ### Fetching Data/Web Scrabing
 - wget
@@ -82,6 +73,8 @@ Aim: A Collection of Useful Data Science and Machine Learning Tools,Libraries an
 
 ### Natural Language Processing
 - NLTK
+- Re
+- Gensim
 - SpaCy
 - TextBlob
 - Stanford NLP
@@ -315,11 +308,3 @@ https://github.com/tmbo/questionary
 - Redis
 - Redshift
 - sed
-
-##### By
-- Jesse E.Agbe (JCharis)
-- Jesus Saves @JCharisTech
-- J-Secur1ty
-
-##### Inspired By 
-+ Others
